@@ -1,3 +1,3 @@
 ## learn git note
-### I love Zhanshanshan
-### And how about you
+### I love Zhanshanshan!
+### And how about you?
