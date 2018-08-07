@@ -1,4 +1,4 @@
 ## learn git note
-### I love Zhanshanshan!
+### I love Shanshan!
 ### And how about you?
 ### yes,and I
